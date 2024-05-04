@@ -1,1 +1,1 @@
-day 4 task functions
+day 4 task using  functions 
